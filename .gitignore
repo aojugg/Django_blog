@@ -13,6 +13,9 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.pyc
+*.db
+*.sqlite3
 
 # Windows shortcuts
 *.lnk
